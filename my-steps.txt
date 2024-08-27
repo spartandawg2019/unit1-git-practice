@@ -86,7 +86,23 @@ rmdir drinks
 
 
 ### Step 4
-my-steps.txt	plants		proteins	sweets		veggies
+git init
+Initialized empty Git repository in /Users/tomk/Desktop/unit1-git-practice/.git/
+
+git add .
+
+git commit -m 'first commit'
+[main (root-commit) 3e6c428] first commit
+ 8 files changed, 98 insertions(+)
+ create mode 100644 my-steps.txt
+ create mode 100644 plants/carrot.txt
+ create mode 100644 plants/pea.txt
+ create mode 100644 proteins/meats/crab.txt
+ create mode 100644 proteins/tofu.txt
+ create mode 100644 sweets/donut.txt
+ create mode 100644 veggies/carrot.txt
+ create mode 100644 veggies/pea.txt
+
 
 ### Step 5
 
